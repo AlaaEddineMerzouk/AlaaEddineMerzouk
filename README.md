@@ -1,9 +1,30 @@
-- 👋 Hi, I’m Alaa Eddine Merzouk
-- I'm a fourth-year computer science student specializing in artificial intelligence. I have three years of experience as a front-end web developer, mainly working with React, Tailwind CSS, HTML, CSS, and JavaScript.
+👋 About Me
+I'm a fourth-year Computer Science student specializing in Artificial Intelligence, with a strong foundation in both academic research and practical software development.
 
-I'm passionate about solving real-world problems using technology. I've worked on projects involving machine learning, including clustering, logistic regression, recommendation systems, and I'm exploring tools like MLflow to understand MLOps architecture. I’ve also used big data technologies like Hadoop and Spark, and I'm currently working with GraphFrames for graph analysis.
+Over the past three years, I’ve gained hands-on experience as a front-end web developer, building modern, responsive applications using React, Tailwind CSS, JavaScript, HTML, and CSS.
 
-In addition to my studies, I’m a contracted professor and lecturer, and I have several years of experience as a high school math teacher and consultant. I enjoy combining my technical skills with teaching and mentorship.
+My academic and project work extends into Machine Learning and Big Data, where I’ve worked on:
 
-I'm always learning and experimenting with new technologies like Docker and React Native, and I love building practical solutions — like a queue simulator for my final year project, or an app that can automatically grade students' exam solutions.
+Clustering algorithms and logistic regression for data analysis
+
+Recommendation systems using hierarchical clustering and association rules
+
+MLOps practices with MLflow for experiment tracking and model deployment
+
+Spark, Hadoop, and GraphFrames for large-scale data processing and graph analytics
+
+I’m currently developing a queue simulator for my final year project and exploring automation tools like Docker and React Native for mobile development. I’ve also built an application to automatically grade exam solutions, bridging my technical and educational experience.
+
+Beyond development, I work as a contracted professor and lecturer, with several years of experience teaching high school mathematics and consulting in education and technology.
+
+🔧 Technologies & Tools
+Languages: JavaScript, Python, HTML, CSS, SQL
+
+Frameworks: React, Tailwind CSS, React Native
+
+ML & Data: Scikit-learn, MLflow, Spark, Hadoop
+
+Other Tools: Git, Docker, VS Code
+
+
 
