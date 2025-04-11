@@ -48,14 +48,13 @@ I also work as a **contracted professor and lecturer**, with years of experience
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaaEddineMerzouk&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaEddineMerzouk&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let’s Connect!
 
-- 🌐 [Portfolio Website](https://your-website.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: you@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/alaa-eddine-merzouk27/)
+- 📧 Email: alaaeddinemerzouk5@gmail.com
 
