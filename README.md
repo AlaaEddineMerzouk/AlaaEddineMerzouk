@@ -1,32 +1,61 @@
-👋 About Me :
+# 👋 About Me
 
-I'm a fourth-year Computer Science student specializing in Artificial Intelligence, with a strong foundation in both academic research and practical software development.
+I'm a **fourth-year Computer Science student** specializing in **Artificial Intelligence**, with a strong foundation in both academic research and practical software development.
 
-Over the past three years, I’ve gained hands-on experience as a front-end web developer, building modern, responsive applications using React, Tailwind CSS, JavaScript, HTML, and CSS.
+🌱 Over the past **three years**, I’ve worked as a **front-end developer**, building sleek, responsive applications using:
 
-My academic and project work extends into Machine Learning and Big Data, where I’ve worked on:
+> **React**, **Tailwind CSS**, **JavaScript**, **HTML**, and **CSS**
 
-Clustering algorithms and logistic regression for data analysis
+---
 
-Recommendation systems using hierarchical clustering and association rules
+## 🧠 What I'm Working On
 
-MLOps practices with MLflow for experiment tracking and model deployment
+<details>
+  <summary>🔍 Machine Learning & Data Science</summary>
 
-Spark, Hadoop, and GraphFrames for large-scale data processing and graph analytics
+- 🧩 Clustering algorithms & logistic regression for data analysis  
+- 🤖 Recommendation systems using hierarchical clustering & association rules  
+- ⚙️ MLOps with **MLflow** for experiment tracking & deployment  
+- 🚴 Big Data pipelines with **Spark**, **Hadoop**, and **GraphFrames**
+</details>
 
-I’m currently developing a queue simulator for my final year project and exploring automation tools like Docker and React Native for mobile development. I’ve also built an application to automatically grade exam solutions, bridging my technical and educational experience.
+<details>
+  <summary>🛠️ Software Projects</summary>
 
-Beyond development, I work as a contracted professor and lecturer, with several years of experience teaching high school mathematics and consulting in education and technology.
+- 🎓 **Queue simulator** for my final year project  
+- 📱 Exploring **Docker** & **React Native** for mobile development  
+- 📊 Developed an app to **automatically grade student exams**
+</details>
 
-🔧 Technologies & Tools :
+---
 
-Languages: JavaScript, Python, HTML, CSS, SQL
+## 🎓 Beyond Code
 
-Frameworks: React, Tailwind CSS, React Native
+I also work as a **contracted professor and lecturer**, with years of experience teaching **high school mathematics** and consulting in education and tech.
 
-ML & Data: Scikit-learn, MLflow, Spark, Hadoop
+---
 
-Other Tools: Git, Docker, VS Code
+## 🔧 Technologies & Tools
 
+| Languages | Frameworks | ML & Data | Tools |
+|----------|------------|-----------|--------|
+| JavaScript | React | Scikit-learn | Git |
+| Python | Tailwind CSS | MLflow | Docker |
+| HTML/CSS | React Native | Spark, Hadoop | VS Code |
+| SQL | – | GraphFrames | – |
 
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## 📫 Let’s Connect!
+
+- 🌐 [Portfolio Website](https://your-website.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: you@example.com
 
