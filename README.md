@@ -1,4 +1,5 @@
-👋 About Me
+👋 About Me :
+
 I'm a fourth-year Computer Science student specializing in Artificial Intelligence, with a strong foundation in both academic research and practical software development.
 
 Over the past three years, I’ve gained hands-on experience as a front-end web developer, building modern, responsive applications using React, Tailwind CSS, JavaScript, HTML, and CSS.
