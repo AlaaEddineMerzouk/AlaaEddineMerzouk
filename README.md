@@ -17,7 +17,8 @@ I’m currently developing a queue simulator for my final year project and explo
 
 Beyond development, I work as a contracted professor and lecturer, with several years of experience teaching high school mathematics and consulting in education and technology.
 
-🔧 Technologies & Tools
+🔧 Technologies & Tools :
+
 Languages: JavaScript, Python, HTML, CSS, SQL
 
 Frameworks: React, Tailwind CSS, React Native
