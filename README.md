@@ -4,7 +4,7 @@ I'm a **fourth-year Computer Science student** specializing in **Artificial Inte
 
 🌱 Over the past **three years**, I’ve worked as a **front-end developer**, building sleek, responsive applications using:
 
-> **React**, **Tailwind CSS**, **JavaScript**, **HTML**, and **CSS**
+> **React**,**React Native** **Tailwind CSS**, **JavaScript**, **HTML**, and **CSS**
 
 ---
 
