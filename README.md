@@ -36,10 +36,10 @@ My curiosity also extends to **MLOps**, **Computer Vision**, and **Natural Langu
 Machine Learning · Deep Learning · Computer Vision · NLP · Reinforcement Learning  
 
 **Data Science & Tools:**  
-Data Analysis · Data Visualization · Pandas · Scikit-learn · PyTorch · OpenCV · MLflow  
+Data Analysis · Data Visualization · Pandas · Numpy . Scikit-learn · PyTorch · OpenCV · MLflow  
 
 **Development & Frameworks:**  
-Flutter · Firebase · Django · Streamlit  
+Flutter · React .html . css .Firebase · sql .Django · Streamlit  
 
 **DevOps & Collaboration:**  
 Docker · Git · GitHub · MLOps  
