@@ -213,7 +213,7 @@ Specialization: **Artificial Intelligence & Data Science**
 ## 🌍 Languages
 
 * 🇩🇿 Arabic — Native
-* 🇬🇧 English — B2 / C1 depending on context
+* 🇬🇧 English — C1 
 * 🇫🇷 French — B2
 
 ---
